@@ -96,11 +96,23 @@ nav ul li a
 }
 section button
 {
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
     font-size: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
+    margin-left: 550px;
+    margin-top: 300px;
+    background-color: black;
 }
-section button a{
+section button a
+{
     text-decoration: none;
-    
+    color: white;
+
+}
+section button:hover
+{
+    background-color: rgba(124, 123, 123, 0.8);
 }
