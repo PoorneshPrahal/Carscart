@@ -94,3 +94,13 @@ nav ul li a
 {
     transform: translateY(-0.17em);   
 }
+section button
+{
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+section button a{
+    text-decoration: none;
+    
+}
